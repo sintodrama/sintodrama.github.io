@@ -11,7 +11,7 @@
 			margin-top: 50px;
 		}
 		img {
-			max-width: 100%;
+			max-width: 50%;
 			height: auto;
 			margin: 50px auto;
 			display: block;
@@ -29,15 +29,19 @@
 	</style>
 </head>
 <body>
-	<h2>Exemplo de imagem e descrição #1</h2>
-	<img src="https://via.placeholder.com/800x600" alt="Imagem 1">
-	<p>Descrição da imagem 1.</p>
+	<h2></h2>
+	<img src="img/capa e contracapa.jpg" alt="Imagem 1">
+	<h2>Trabalho de pesquisa e composição que relaciona frequências de moléculas odoríferas com frequências de ondas sonoras. 
+Ouça nas plataformas digitais o disco. </h2>
+	
+
+         <p>Descrição da imagem 1.</p>
 
 	<h2>Exemplo de imagem e descrição #2</h2>
-	<img src="https://via.placeholder.com/800x600" alt="Imagem 2">
-	<p>Descrição da imagem 2.</p>
+	<img src="img/banner_palestra.jpg" alt="Imagem 2">
+	<p></p>
 
-	<h2>Assista o vídeo</h2>
+	<h2></h2>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/sGI_WuaNfbE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
 </html>

@@ -4,11 +4,15 @@
 	<title>Exemplo de imagens e descrições</title>
 	<style>
 		body {
-			font-family: 'Helvetica Neue', sans-serif;
+			background-color: black;
+			font-family: 'Agency FB', sans-serif;
 			text-align: center;
+			margin: 0;
 		}
 		h2 {
 			margin-top: 50px;
+			color: white;
+			max-width: 50%;
 		}
 		img {
 			max-width: 50%;
@@ -18,7 +22,8 @@
 		}
 		p {
 			margin: 0 auto;
-			max-width: 600px;
+			max-width: 50%;
+			color: white;
 		}
 		iframe {
 			max-width: 100%;
@@ -31,13 +36,11 @@
 <body>
 	<h2></h2>
 	<img src="img/capa e contracapa.jpg" alt="Imagem 1">
-	<h2>Trabalho de pesquisa e composição que relaciona frequências de moléculas odoríferas com frequências de ondas sonoras. 
-Ouça nas plataformas digitais o disco. </h2>
-	
+	<p>Trabalho de pesquisa e composição que relaciona frequências de moléculas odoríferas com frequências de ondas sonoras. 
+Ouça nas plataformas digitais o disco. Projeto aprovado pela Lei Nacional de Incentivo à Cultura, apoio Aromas de Catarina, Financiamento Ministério da Cultura, Governo Federal União e Reconstrução.
+PRONAC 201666</p>
 
-         <p>Descrição da imagem 1.</p>
-
-	<h2>Exemplo de imagem e descrição #2</h2>
+	<h2></h2>
 	<img src="img/banner_palestra.jpg" alt="Imagem 2">
 	<p></p>
 
